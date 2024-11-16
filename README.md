@@ -16,7 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=geekylax&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/geekylax)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![Twitter Follow](https://img.shields.io/twitter/follow/geekylax?style=social)](https://twitter.com/geekylax)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgeekylax)](https://twitter.com/geekylax)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
